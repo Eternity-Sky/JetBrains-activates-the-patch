@@ -1,0 +1,10 @@
+[DNS]
+EQUAL,jetbrains.com
+
+[URL]
+PREFIX,https://account.jetbrains.com/lservice/rpc/validateKey.action
+
+[MyMap]
+EQUAL,licenseeName->IDEA工作室
+EQUAL,gracePeriodDays->30
+EQUAL,paidUpTo->2099-12-31

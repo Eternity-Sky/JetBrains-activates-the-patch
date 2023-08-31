@@ -1,0 +1,17 @@
+
+
+
+【截图教程】：https://docs.qq.com/doc/DYVdYenVnSXdXbWdq
+                 步骤说明：
+	1、双击运行 一键激活.vbs 文件，弹窗出现success即可。
+	2、重启软件，已处于激活状态，新建或打开一个项目，选Help 菜单 Register选项 即可查看激活状态
+	
+	3、关闭自动更新
+	随便新建或打开一个项目，进入开发界面，点击菜单File-》Settings
+		在弹窗左侧列表选第一个Appearance-》System settings-》Updates-》去掉所有勾选，点ok即可
+
+	
+	
+	
+	
+	
