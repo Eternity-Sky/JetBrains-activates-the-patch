@@ -1,4 +1,4 @@
-# Pycharm activates the patch
+# jetbrains activates the patch
  Help you activate Pycharm Pro（2017-2023）
 #### 使用方法
 （2022-2023版本）
